@@ -33,7 +33,7 @@ const CourseForm = () => {
         }}
         className="form-submit-btn"
       >
-        Add Course
+        Add Item
       </button>
     </div>
   );
