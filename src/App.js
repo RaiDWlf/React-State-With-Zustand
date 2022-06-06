@@ -11,7 +11,7 @@ function App() {
           marginBottom: "2rem",
         }}
       >
-        My Course List
+        My To Do List
       </h1>
       <CourseForm />
       <CourseList />
